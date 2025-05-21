@@ -1,1 +1,4 @@
-# self-balance-robot
+# ROBOT TỰ CÂN BẰNG
+
+## THIẾT KẾ PHẦN CỨNG
+## LẬP TRÌNH PHẦN MỀM
